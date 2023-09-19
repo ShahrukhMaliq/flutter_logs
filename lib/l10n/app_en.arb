@@ -1,0 +1,15 @@
+{
+  "morePage_logSettings": "Log-Einstellungen",
+  "morePage_loggingMode": "Logging-Modus",
+  "morePage_logLevels": "Log Levels",
+  "morePage_exportLogs": "Logs exportieren",
+
+  "logSettingsSelectLoggingMode": "Logging Modus Auswählen",
+  "logSettingsSelectLogLevels": "Log Levels Auswählen",
+  "logSettingsLevel": "Level",
+  "logSettingsDefaultLevel": "Default Level",
+  "logSettingsFileMode": "Datei Mode",
+  "logSettingsOnlineMode": "Online Mode",
+  "performanceLogsTimeUnit": "ms"
+
+ }

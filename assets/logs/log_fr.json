@@ -1,0 +1,39 @@
+[
+  {
+    "Error": [
+      {
+        "logId": 101,
+        "description": "Error occured at homepage during product search.",
+        "component": "Home Page/Search Page"
+      }
+    ]
+      
+  },
+  {
+    "Info": [
+      {
+        "logId": 301,
+        "description": "Search product Performance/Response Time",
+        "component": "Planogram Viewer Page"
+      }
+    ]
+  },
+  {
+    "Debug": [
+      {
+        "logId": 401,
+        "description": "Store searched successfully ",
+        "component": "Store Repository"
+      }
+    ]
+  },
+  {
+    "Warning": [
+      {
+        "logId": 201,
+        "description": "Image not available for Product ID: ",
+        "component": "Position Details"
+      }
+    ]
+  }
+]
